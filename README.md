@@ -1,2 +1,2 @@
-# IMLP433
+# IMLP
 This is NTUTRAIN IMLP course. 
